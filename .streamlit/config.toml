@@ -1,0 +1,16 @@
+[client]
+showSidebarNavigation = false
+
+[theme]
+primaryColor = "#8EC0E4"
+backgroundColor = "#093870"
+secondaryBackgroundColor = "#336CAF"
+textColor = "#ffffff"
+font = "Helvetica"
+
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+port = 8501

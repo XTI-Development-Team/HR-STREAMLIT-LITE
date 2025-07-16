@@ -1,0 +1,781 @@
+2025-07-11 13:46:20,598 - INFO - === Localtunnel restart script started ===
+2025-07-11 13:46:20,598 - INFO - Starting localtunnel...
+2025-07-11 13:46:20,605 - INFO - Localtunnel started with PID: 18712
+2025-07-11 13:46:23,607 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 13:46:23,607 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 13:46:24,608 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 13:46:24,608 - INFO - Next scheduled restart at: 2025-07-11 13:56:24
+2025-07-11 13:48:25,237 - INFO - Script interrupted by user.
+2025-07-11 13:48:25,238 - INFO - Stopping localtunnel (PID: 18712)...
+2025-07-11 13:48:35,244 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 13:48:35,244 - INFO - Process terminated forcefully.
+2025-07-11 13:48:40,310 - INFO - === Localtunnel restart script started ===
+2025-07-11 13:48:40,311 - INFO - Starting localtunnel...
+2025-07-11 13:48:40,319 - INFO - Localtunnel started with PID: 27440
+2025-07-11 13:48:43,322 - INFO - Localtunnel: your url is: https://cowardly-earwig-29.loca.lt
+2025-07-11 13:48:43,322 - WARNING - Tunnel established but with unexpected URL: https://cowardly-earwig-29.loca.lt
+2025-07-11 13:49:10,333 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-11 13:49:10,333 - INFO - Stopping localtunnel (PID: 27440)...
+2025-07-11 13:49:20,343 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 13:49:20,343 - INFO - Process terminated forcefully.
+2025-07-11 13:49:20,343 - INFO - Trying with same subdomain: robustss
+2025-07-11 13:49:30,345 - INFO - Starting localtunnel...
+2025-07-11 13:49:30,350 - INFO - Localtunnel started with PID: 38364
+2025-07-11 13:49:34,353 - INFO - Localtunnel: your url is: https://slimy-penguin-86.loca.lt
+2025-07-11 13:49:34,353 - WARNING - Tunnel established but with unexpected URL: https://slimy-penguin-86.loca.lt
+2025-07-11 13:49:42,953 - INFO - Script interrupted by user.
+2025-07-11 13:49:42,954 - INFO - Stopping localtunnel (PID: 38364)...
+2025-07-11 13:49:52,956 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 13:49:52,956 - INFO - Process terminated forcefully.
+2025-07-11 13:49:54,030 - INFO - === Localtunnel restart script started ===
+2025-07-11 13:49:54,030 - INFO - Starting localtunnel...
+2025-07-11 13:49:54,036 - INFO - Localtunnel started with PID: 43260
+2025-07-11 13:49:57,039 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 13:49:57,039 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 13:49:58,041 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 13:49:58,041 - INFO - Next scheduled restart at: 2025-07-11 13:59:58
+2025-07-11 13:59:58,136 - INFO - Scheduled restart interval reached.
+2025-07-11 13:59:58,136 - INFO - Stopping localtunnel (PID: 43260)...
+2025-07-11 14:00:08,145 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 14:00:08,145 - INFO - Process terminated forcefully.
+2025-07-11 14:00:08,145 - INFO - Localtunnel restart cycle complete.
+2025-07-11 14:00:13,146 - INFO - Starting localtunnel...
+2025-07-11 14:00:13,153 - INFO - Localtunnel started with PID: 38684
+2025-07-11 14:00:16,155 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:00:16,155 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:00:17,155 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 14:00:17,155 - INFO - Next scheduled restart at: 2025-07-11 14:10:17
+2025-07-11 14:10:17,253 - INFO - Scheduled restart interval reached.
+2025-07-11 14:10:17,253 - INFO - Stopping localtunnel (PID: 38684)...
+2025-07-11 14:10:27,257 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 14:10:27,257 - INFO - Process terminated forcefully.
+2025-07-11 14:10:27,257 - INFO - Localtunnel restart cycle complete.
+2025-07-11 14:10:32,258 - INFO - Starting localtunnel...
+2025-07-11 14:10:32,264 - INFO - Localtunnel started with PID: 26772
+2025-07-11 14:10:35,266 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:10:35,266 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:10:36,267 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 14:10:36,267 - INFO - Next scheduled restart at: 2025-07-11 14:20:36
+2025-07-11 14:20:36,344 - INFO - Scheduled restart interval reached.
+2025-07-11 14:20:36,344 - INFO - Stopping localtunnel (PID: 26772)...
+2025-07-11 14:20:46,347 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 14:20:46,347 - INFO - Process terminated forcefully.
+2025-07-11 14:20:46,347 - INFO - Localtunnel restart cycle complete.
+2025-07-11 14:20:51,349 - INFO - Starting localtunnel...
+2025-07-11 14:20:51,355 - INFO - Localtunnel started with PID: 43172
+2025-07-11 14:20:54,357 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:20:54,357 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:20:55,358 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 14:20:55,358 - INFO - Next scheduled restart at: 2025-07-11 14:30:55
+2025-07-11 14:30:55,431 - INFO - Scheduled restart interval reached.
+2025-07-11 14:30:55,431 - INFO - Stopping localtunnel (PID: 43172)...
+2025-07-11 14:31:05,439 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 14:31:05,439 - INFO - Process terminated forcefully.
+2025-07-11 14:31:05,439 - INFO - Localtunnel restart cycle complete.
+2025-07-11 14:31:10,441 - INFO - Starting localtunnel...
+2025-07-11 14:31:10,448 - INFO - Localtunnel started with PID: 44600
+2025-07-11 14:31:13,451 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:31:13,451 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:31:14,452 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 14:31:14,452 - INFO - Next scheduled restart at: 2025-07-11 14:41:14
+2025-07-11 14:41:14,526 - INFO - Scheduled restart interval reached.
+2025-07-11 14:41:14,526 - INFO - Stopping localtunnel (PID: 44600)...
+2025-07-11 14:41:24,538 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 14:41:24,538 - INFO - Process terminated forcefully.
+2025-07-11 14:41:24,538 - INFO - Localtunnel restart cycle complete.
+2025-07-11 14:41:29,539 - INFO - Starting localtunnel...
+2025-07-11 14:41:29,545 - INFO - Localtunnel started with PID: 22860
+2025-07-11 14:41:32,548 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:41:32,548 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:41:33,548 - INFO - Monitoring tunnel. Next restart in 10.0 minutes.
+2025-07-11 14:41:33,548 - INFO - Next scheduled restart at: 2025-07-11 14:51:33
+2025-07-11 14:41:56,016 - INFO - Script interrupted by user.
+2025-07-11 14:41:56,016 - INFO - Stopping localtunnel (PID: 22860)...
+2025-07-11 14:42:06,027 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 14:42:06,027 - INFO - Process terminated forcefully.
+2025-07-11 14:42:29,014 - INFO - === Localtunnel restart script started ===
+2025-07-11 14:42:29,014 - INFO - Starting localtunnel...
+2025-07-11 14:42:29,021 - INFO - Localtunnel started with PID: 13240
+2025-07-11 14:42:32,023 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:42:32,023 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:42:33,024 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-11 14:42:33,024 - INFO - Next scheduled restart at: 2025-07-11 20:42:33
+2025-07-11 14:44:12,403 - INFO - Script interrupted by user.
+2025-07-11 14:44:12,403 - INFO - Stopping localtunnel (PID: 13240)...
+2025-07-11 14:44:21,363 - INFO - Localtunnel stopped gracefully.
+2025-07-11 14:45:03,761 - INFO - === Localtunnel restart script started ===
+2025-07-11 14:45:03,762 - INFO - Starting localtunnel...
+2025-07-11 14:45:03,768 - INFO - Localtunnel started with PID: 13044
+2025-07-11 14:45:13,773 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:45:13,773 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 14:45:14,774 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-11 14:45:14,774 - INFO - Next scheduled restart at: 2025-07-11 20:45:14
+2025-07-11 15:03:09,891 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-11 15:03:09,891 - ERROR - Localtunnel: throw err;
+2025-07-11 15:03:09,891 - ERROR - Localtunnel: ^
+2025-07-11 15:03:09,891 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:29855 (check your firewall settings)
+2025-07-11 15:03:09,891 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-11 15:03:09,892 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-11 15:03:09,892 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-11 15:03:09,892 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-11 15:03:09,892 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-11 15:03:09,892 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-11 15:03:09,892 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-11 15:03:09,892 - INFO - Stopping localtunnel (PID: 13044)...
+2025-07-11 15:03:09,893 - INFO - Localtunnel stopped gracefully.
+2025-07-11 15:03:09,893 - INFO - Localtunnel restart cycle complete.
+2025-07-11 15:03:14,894 - INFO - Starting localtunnel...
+2025-07-11 15:03:14,900 - INFO - Localtunnel started with PID: 25556
+2025-07-11 15:03:44,913 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-11 15:03:44,913 - INFO - Stopping localtunnel (PID: 25556)...
+2025-07-11 15:03:54,927 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-11 15:03:54,927 - INFO - Process terminated forcefully.
+2025-07-11 15:03:54,927 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-11 15:04:04,928 - INFO - Starting localtunnel...
+2025-07-11 15:04:04,935 - INFO - Localtunnel started with PID: 10808
+2025-07-11 15:04:07,937 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 15:04:07,937 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 15:04:08,938 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-11 15:04:08,938 - INFO - Next scheduled restart at: 2025-07-11 21:04:08
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: throw err;
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: ^
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:22797 (check your firewall settings)
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-11 17:04:19,641 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-11 17:04:19,643 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-11 17:04:19,643 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-11 17:04:19,643 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-11 17:04:19,643 - INFO - Stopping localtunnel (PID: 10808)...
+2025-07-11 17:04:19,643 - INFO - Localtunnel stopped gracefully.
+2025-07-11 17:04:19,643 - INFO - Localtunnel restart cycle complete.
+2025-07-11 17:04:24,644 - INFO - Starting localtunnel...
+2025-07-11 17:04:24,650 - INFO - Localtunnel started with PID: 14724
+2025-07-11 17:04:29,653 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 17:04:29,653 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 17:04:30,654 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-11 17:04:30,654 - INFO - Next scheduled restart at: 2025-07-11 23:04:30
+2025-07-11 18:44:26,276 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-11 18:44:26,276 - ERROR - Localtunnel: throw err;
+2025-07-11 18:44:26,276 - ERROR - Localtunnel: ^
+2025-07-11 18:44:26,276 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:29665 (check your firewall settings)
+2025-07-11 18:44:26,276 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-11 18:44:26,276 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-11 18:44:26,277 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-11 18:44:26,277 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-11 18:44:26,277 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-11 18:44:26,277 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-11 18:44:26,277 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-11 18:44:26,277 - INFO - Stopping localtunnel (PID: 14724)...
+2025-07-11 18:44:26,277 - INFO - Localtunnel stopped gracefully.
+2025-07-11 18:44:26,277 - INFO - Localtunnel restart cycle complete.
+2025-07-11 18:44:31,279 - INFO - Starting localtunnel...
+2025-07-11 18:44:31,286 - INFO - Localtunnel started with PID: 41888
+2025-07-11 18:44:36,288 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 18:44:36,288 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 18:44:37,289 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-11 18:44:37,289 - INFO - Next scheduled restart at: 2025-07-12 00:44:37
+2025-07-11 20:46:08,038 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-11 20:46:08,038 - ERROR - Localtunnel: throw err;
+2025-07-11 20:46:08,038 - ERROR - Localtunnel: ^
+2025-07-11 20:46:08,038 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:14975 (check your firewall settings)
+2025-07-11 20:46:08,038 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-11 20:46:08,038 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-11 20:46:08,039 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-11 20:46:08,039 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-11 20:46:08,039 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-11 20:46:08,039 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-11 20:46:08,039 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-11 20:46:08,039 - INFO - Stopping localtunnel (PID: 41888)...
+2025-07-11 20:46:08,039 - INFO - Localtunnel stopped gracefully.
+2025-07-11 20:46:08,039 - INFO - Localtunnel restart cycle complete.
+2025-07-11 20:46:13,041 - INFO - Starting localtunnel...
+2025-07-11 20:46:13,048 - INFO - Localtunnel started with PID: 1812
+2025-07-11 20:46:19,051 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-11 20:46:19,051 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-11 20:46:20,051 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-11 20:46:20,051 - INFO - Next scheduled restart at: 2025-07-12 02:46:20
+2025-07-12 00:09:31,414 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 00:09:31,414 - ERROR - Localtunnel: throw err;
+2025-07-12 00:09:31,414 - ERROR - Localtunnel: ^
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:10119 (check your firewall settings)
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 00:09:31,415 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 00:09:31,415 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 00:09:31,415 - INFO - Stopping localtunnel (PID: 1812)...
+2025-07-12 00:09:31,416 - INFO - Localtunnel stopped gracefully.
+2025-07-12 00:09:31,416 - INFO - Localtunnel restart cycle complete.
+2025-07-12 00:09:36,417 - INFO - Starting localtunnel...
+2025-07-12 00:09:36,423 - INFO - Localtunnel started with PID: 44072
+2025-07-12 00:09:41,425 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 00:09:41,425 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 00:09:42,426 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 00:09:42,426 - INFO - Next scheduled restart at: 2025-07-12 06:09:42
+2025-07-12 02:28:08,230 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 02:28:08,230 - ERROR - Localtunnel: throw err;
+2025-07-12 02:28:08,230 - ERROR - Localtunnel: ^
+2025-07-12 02:28:08,230 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:16683 (check your firewall settings)
+2025-07-12 02:28:08,230 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 02:28:08,231 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 02:28:08,231 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 02:28:08,231 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 02:28:08,231 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 02:28:08,231 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 02:28:08,231 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 02:28:08,231 - INFO - Stopping localtunnel (PID: 44072)...
+2025-07-12 02:28:08,231 - INFO - Localtunnel stopped gracefully.
+2025-07-12 02:28:08,232 - INFO - Localtunnel restart cycle complete.
+2025-07-12 02:28:13,233 - INFO - Starting localtunnel...
+2025-07-12 02:28:13,239 - INFO - Localtunnel started with PID: 39884
+2025-07-12 02:28:18,242 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 02:28:18,242 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 02:28:19,242 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 02:28:19,242 - INFO - Next scheduled restart at: 2025-07-12 08:28:19
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: throw err;
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: ^
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:28297 (check your firewall settings)
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 06:38:05,959 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 06:38:05,961 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 06:38:05,961 - INFO - Stopping localtunnel (PID: 39884)...
+2025-07-12 06:38:05,961 - INFO - Localtunnel stopped gracefully.
+2025-07-12 06:38:05,961 - INFO - Localtunnel restart cycle complete.
+2025-07-12 06:38:10,961 - INFO - Starting localtunnel...
+2025-07-12 06:38:10,967 - INFO - Localtunnel started with PID: 32932
+2025-07-12 06:38:15,970 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 06:38:15,970 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 06:38:16,971 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 06:38:16,971 - INFO - Next scheduled restart at: 2025-07-12 12:38:16
+2025-07-12 06:59:27,103 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 06:59:27,103 - ERROR - Localtunnel: throw err;
+2025-07-12 06:59:27,103 - ERROR - Localtunnel: ^
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:32005 (check your firewall settings)
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 06:59:27,104 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 06:59:27,104 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 06:59:27,105 - INFO - Stopping localtunnel (PID: 32932)...
+2025-07-12 06:59:27,105 - INFO - Localtunnel stopped gracefully.
+2025-07-12 06:59:27,105 - INFO - Localtunnel restart cycle complete.
+2025-07-12 06:59:32,106 - INFO - Starting localtunnel...
+2025-07-12 06:59:32,112 - INFO - Localtunnel started with PID: 31528
+2025-07-12 07:00:02,125 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-12 07:00:02,125 - INFO - Stopping localtunnel (PID: 31528)...
+2025-07-12 07:00:12,129 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-12 07:00:12,129 - INFO - Process terminated forcefully.
+2025-07-12 07:00:12,130 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-12 07:00:22,130 - INFO - Starting localtunnel...
+2025-07-12 07:00:22,136 - INFO - Localtunnel started with PID: 45348
+2025-07-12 07:00:25,137 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 07:00:25,137 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 07:00:26,138 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 07:00:26,138 - INFO - Next scheduled restart at: 2025-07-12 13:00:26
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: throw err;
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: ^
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:15601 (check your firewall settings)
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 09:38:37,220 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 09:38:37,221 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 09:38:37,221 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 09:38:37,221 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 09:38:37,221 - INFO - Stopping localtunnel (PID: 45348)...
+2025-07-12 09:38:37,221 - INFO - Localtunnel stopped gracefully.
+2025-07-12 09:38:37,221 - INFO - Localtunnel restart cycle complete.
+2025-07-12 09:38:42,222 - INFO - Starting localtunnel...
+2025-07-12 09:38:42,228 - INFO - Localtunnel started with PID: 39984
+2025-07-12 09:38:47,231 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 09:38:47,231 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 09:38:48,232 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 09:38:48,232 - INFO - Next scheduled restart at: 2025-07-12 15:38:48
+2025-07-12 11:48:14,003 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 11:48:14,003 - ERROR - Localtunnel: throw err;
+2025-07-12 11:48:14,003 - ERROR - Localtunnel: ^
+2025-07-12 11:48:14,003 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:12153 (check your firewall settings)
+2025-07-12 11:48:14,003 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 11:48:14,003 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 11:48:14,004 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 11:48:14,004 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 11:48:14,004 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 11:48:14,004 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 11:48:14,004 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 11:48:14,004 - INFO - Stopping localtunnel (PID: 39984)...
+2025-07-12 11:48:14,004 - INFO - Localtunnel stopped gracefully.
+2025-07-12 11:48:14,004 - INFO - Localtunnel restart cycle complete.
+2025-07-12 11:48:19,005 - INFO - Starting localtunnel...
+2025-07-12 11:48:19,011 - INFO - Localtunnel started with PID: 40948
+2025-07-12 11:48:49,025 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-12 11:48:49,025 - INFO - Stopping localtunnel (PID: 40948)...
+2025-07-12 11:48:59,026 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-12 11:48:59,026 - INFO - Process terminated forcefully.
+2025-07-12 11:48:59,026 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-12 11:49:09,027 - INFO - Starting localtunnel...
+2025-07-12 11:49:09,032 - INFO - Localtunnel started with PID: 19180
+2025-07-12 11:49:12,035 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 11:49:12,035 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 11:49:13,035 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 11:49:13,035 - INFO - Next scheduled restart at: 2025-07-12 17:49:13
+2025-07-12 14:01:03,940 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 14:01:03,940 - ERROR - Localtunnel: throw err;
+2025-07-12 14:01:03,940 - ERROR - Localtunnel: ^
+2025-07-12 14:01:03,940 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:14981 (check your firewall settings)
+2025-07-12 14:01:03,940 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 14:01:03,941 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 14:01:03,941 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 14:01:03,941 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 14:01:03,941 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 14:01:03,941 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 14:01:03,941 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 14:01:03,941 - INFO - Stopping localtunnel (PID: 19180)...
+2025-07-12 14:01:03,941 - INFO - Localtunnel stopped gracefully.
+2025-07-12 14:01:03,941 - INFO - Localtunnel restart cycle complete.
+2025-07-12 14:01:08,942 - INFO - Starting localtunnel...
+2025-07-12 14:01:08,948 - INFO - Localtunnel started with PID: 37864
+2025-07-12 14:01:13,950 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 14:01:13,950 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 14:01:14,951 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 14:01:14,951 - INFO - Next scheduled restart at: 2025-07-12 20:01:14
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: throw err;
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: ^
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:21177 (check your firewall settings)
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 16:40:20,904 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 16:40:20,904 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 16:40:20,905 - INFO - Stopping localtunnel (PID: 37864)...
+2025-07-12 16:40:20,905 - INFO - Localtunnel stopped gracefully.
+2025-07-12 16:40:20,905 - INFO - Localtunnel restart cycle complete.
+2025-07-12 16:40:25,906 - INFO - Starting localtunnel...
+2025-07-12 16:40:25,912 - INFO - Localtunnel started with PID: 35616
+2025-07-12 16:40:55,924 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-12 16:40:55,924 - INFO - Stopping localtunnel (PID: 35616)...
+2025-07-12 16:41:05,934 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-12 16:41:05,934 - INFO - Process terminated forcefully.
+2025-07-12 16:41:05,934 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-12 16:41:15,935 - INFO - Starting localtunnel...
+2025-07-12 16:41:15,940 - INFO - Localtunnel started with PID: 8376
+2025-07-12 16:41:18,942 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 16:41:18,942 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 16:41:19,943 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 16:41:19,943 - INFO - Next scheduled restart at: 2025-07-12 22:41:19
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: throw err;
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: ^
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:20797 (check your firewall settings)
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 20:11:46,302 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 20:11:46,304 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 20:11:46,304 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 20:11:46,304 - INFO - Stopping localtunnel (PID: 8376)...
+2025-07-12 20:11:46,304 - INFO - Localtunnel stopped gracefully.
+2025-07-12 20:11:46,304 - INFO - Localtunnel restart cycle complete.
+2025-07-12 20:11:51,305 - INFO - Starting localtunnel...
+2025-07-12 20:11:51,313 - INFO - Localtunnel started with PID: 18728
+2025-07-12 20:12:21,327 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-12 20:12:21,327 - INFO - Stopping localtunnel (PID: 18728)...
+2025-07-12 20:12:31,334 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-12 20:12:31,334 - INFO - Process terminated forcefully.
+2025-07-12 20:12:31,334 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-12 20:12:41,336 - INFO - Starting localtunnel...
+2025-07-12 20:12:41,342 - INFO - Localtunnel started with PID: 15280
+2025-07-12 20:12:54,348 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 20:12:54,348 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 20:12:55,349 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 20:12:55,349 - INFO - Next scheduled restart at: 2025-07-13 02:12:55
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: throw err;
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: ^
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:16823 (check your firewall settings)
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 22:16:26,193 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 22:16:26,194 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 22:16:26,194 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 22:16:26,194 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 22:16:26,194 - INFO - Stopping localtunnel (PID: 15280)...
+2025-07-12 22:16:26,194 - INFO - Localtunnel stopped gracefully.
+2025-07-12 22:16:26,194 - INFO - Localtunnel restart cycle complete.
+2025-07-12 22:16:31,196 - INFO - Starting localtunnel...
+2025-07-12 22:16:31,203 - INFO - Localtunnel started with PID: 46996
+2025-07-12 22:17:01,216 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-12 22:17:01,216 - INFO - Stopping localtunnel (PID: 46996)...
+2025-07-12 22:17:11,227 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-12 22:17:11,227 - INFO - Process terminated forcefully.
+2025-07-12 22:17:11,227 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-12 22:17:21,228 - INFO - Starting localtunnel...
+2025-07-12 22:17:21,233 - INFO - Localtunnel started with PID: 19492
+2025-07-12 22:17:24,237 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 22:17:24,237 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 22:17:25,237 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 22:17:25,237 - INFO - Next scheduled restart at: 2025-07-13 04:17:25
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: throw err;
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: ^
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:10983 (check your firewall settings)
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-12 22:30:35,347 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-12 22:30:35,348 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-12 22:30:35,348 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-12 22:30:35,348 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-12 22:30:35,348 - INFO - Stopping localtunnel (PID: 19492)...
+2025-07-12 22:30:35,348 - INFO - Localtunnel stopped gracefully.
+2025-07-12 22:30:35,348 - INFO - Localtunnel restart cycle complete.
+2025-07-12 22:30:40,349 - INFO - Starting localtunnel...
+2025-07-12 22:30:40,355 - INFO - Localtunnel started with PID: 42932
+2025-07-12 22:30:43,357 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-12 22:30:43,357 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-12 22:30:44,358 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-12 22:30:44,358 - INFO - Next scheduled restart at: 2025-07-13 04:30:44
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: throw err;
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: ^
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:16707 (check your firewall settings)
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 02:20:05,787 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 02:20:05,788 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 02:20:05,788 - INFO - Stopping localtunnel (PID: 42932)...
+2025-07-13 02:20:05,788 - INFO - Localtunnel stopped gracefully.
+2025-07-13 02:20:05,788 - INFO - Localtunnel restart cycle complete.
+2025-07-13 02:20:10,789 - INFO - Starting localtunnel...
+2025-07-13 02:20:10,796 - INFO - Localtunnel started with PID: 14360
+2025-07-13 02:20:16,799 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 02:20:16,799 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 02:20:17,800 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 02:20:17,800 - INFO - Next scheduled restart at: 2025-07-13 08:20:17
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: throw err;
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: ^
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:16161 (check your firewall settings)
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 05:18:53,968 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 05:18:53,970 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 05:18:53,970 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 05:18:53,970 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 05:18:53,970 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 05:18:53,970 - INFO - Stopping localtunnel (PID: 14360)...
+2025-07-13 05:18:53,970 - INFO - Localtunnel stopped gracefully.
+2025-07-13 05:18:53,970 - INFO - Localtunnel restart cycle complete.
+2025-07-13 05:18:58,971 - INFO - Starting localtunnel...
+2025-07-13 05:18:58,977 - INFO - Localtunnel started with PID: 7536
+2025-07-13 05:19:03,980 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 05:19:03,980 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 05:19:04,980 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 05:19:04,980 - INFO - Next scheduled restart at: 2025-07-13 11:19:04
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: throw err;
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: ^
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:10835 (check your firewall settings)
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 07:30:30,876 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 07:30:30,877 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 07:30:30,877 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 07:30:30,877 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 07:30:30,877 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 07:30:30,877 - INFO - Stopping localtunnel (PID: 7536)...
+2025-07-13 07:30:30,877 - INFO - Localtunnel stopped gracefully.
+2025-07-13 07:30:30,877 - INFO - Localtunnel restart cycle complete.
+2025-07-13 07:30:35,878 - INFO - Starting localtunnel...
+2025-07-13 07:30:35,884 - INFO - Localtunnel started with PID: 42396
+2025-07-13 07:30:40,888 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 07:30:40,888 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 07:30:41,889 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 07:30:41,889 - INFO - Next scheduled restart at: 2025-07-13 13:30:41
+2025-07-13 09:45:22,714 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 09:45:22,714 - ERROR - Localtunnel: throw err;
+2025-07-13 09:45:22,714 - ERROR - Localtunnel: ^
+2025-07-13 09:45:22,714 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:35117 (check your firewall settings)
+2025-07-13 09:45:22,714 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 09:45:22,714 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 09:45:22,715 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 09:45:22,715 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 09:45:22,715 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 09:45:22,715 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 09:45:22,715 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 09:45:22,715 - INFO - Stopping localtunnel (PID: 42396)...
+2025-07-13 09:45:22,715 - INFO - Localtunnel stopped gracefully.
+2025-07-13 09:45:22,715 - INFO - Localtunnel restart cycle complete.
+2025-07-13 09:45:27,717 - INFO - Starting localtunnel...
+2025-07-13 09:45:27,723 - INFO - Localtunnel started with PID: 44104
+2025-07-13 09:45:33,726 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 09:45:33,726 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 09:45:34,727 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 09:45:34,727 - INFO - Next scheduled restart at: 2025-07-13 15:45:34
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: throw err;
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: ^
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:32689 (check your firewall settings)
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 12:54:10,973 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 12:54:10,974 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 12:54:10,974 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 12:54:10,974 - INFO - Stopping localtunnel (PID: 44104)...
+2025-07-13 12:54:10,974 - INFO - Localtunnel stopped gracefully.
+2025-07-13 12:54:10,974 - INFO - Localtunnel restart cycle complete.
+2025-07-13 12:54:15,976 - INFO - Starting localtunnel...
+2025-07-13 12:54:15,983 - INFO - Localtunnel started with PID: 46168
+2025-07-13 12:54:21,987 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 12:54:21,987 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 12:54:22,987 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 12:54:22,987 - INFO - Next scheduled restart at: 2025-07-13 18:54:22
+2025-07-13 13:51:53,327 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 13:51:53,327 - ERROR - Localtunnel: throw err;
+2025-07-13 13:51:53,327 - ERROR - Localtunnel: ^
+2025-07-13 13:51:53,327 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:32295 (check your firewall settings)
+2025-07-13 13:51:53,328 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 13:51:53,328 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 13:51:53,328 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 13:51:53,328 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 13:51:53,328 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 13:51:53,328 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 13:51:53,328 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 13:51:53,328 - INFO - Stopping localtunnel (PID: 46168)...
+2025-07-13 13:51:53,328 - INFO - Localtunnel stopped gracefully.
+2025-07-13 13:51:53,329 - INFO - Localtunnel restart cycle complete.
+2025-07-13 13:51:58,329 - INFO - Starting localtunnel...
+2025-07-13 13:51:58,337 - INFO - Localtunnel started with PID: 28284
+2025-07-13 13:52:01,339 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 13:52:01,339 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 13:52:02,339 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 13:52:02,339 - INFO - Next scheduled restart at: 2025-07-13 19:52:02
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: throw err;
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: ^
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:14033 (check your firewall settings)
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 15:41:48,016 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 15:41:48,017 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 15:41:48,017 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 15:41:48,017 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 15:41:48,017 - INFO - Stopping localtunnel (PID: 28284)...
+2025-07-13 15:41:48,017 - INFO - Localtunnel stopped gracefully.
+2025-07-13 15:41:48,017 - INFO - Localtunnel restart cycle complete.
+2025-07-13 15:41:53,018 - INFO - Starting localtunnel...
+2025-07-13 15:41:53,025 - INFO - Localtunnel started with PID: 38272
+2025-07-13 15:41:59,028 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 15:41:59,028 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 15:42:00,029 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 15:42:00,029 - INFO - Next scheduled restart at: 2025-07-13 21:42:00
+2025-07-13 18:42:01,213 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 18:42:01,213 - ERROR - Localtunnel: throw err;
+2025-07-13 18:42:01,213 - ERROR - Localtunnel: ^
+2025-07-13 18:42:01,213 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:33629 (check your firewall settings)
+2025-07-13 18:42:01,213 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 18:42:01,214 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 18:42:01,214 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 18:42:01,214 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 18:42:01,214 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 18:42:01,214 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 18:42:01,214 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 18:42:01,214 - INFO - Stopping localtunnel (PID: 38272)...
+2025-07-13 18:42:01,215 - INFO - Localtunnel stopped gracefully.
+2025-07-13 18:42:01,215 - INFO - Localtunnel restart cycle complete.
+2025-07-13 18:42:06,216 - INFO - Starting localtunnel...
+2025-07-13 18:42:06,222 - INFO - Localtunnel started with PID: 46312
+2025-07-13 18:42:11,224 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 18:42:11,224 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 18:42:12,225 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 18:42:12,225 - INFO - Next scheduled restart at: 2025-07-14 00:42:12
+2025-07-13 21:09:58,192 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 21:09:58,192 - ERROR - Localtunnel: throw err;
+2025-07-13 21:09:58,192 - ERROR - Localtunnel: ^
+2025-07-13 21:09:58,192 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:26873 (check your firewall settings)
+2025-07-13 21:09:58,192 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 21:09:58,192 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 21:09:58,193 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 21:09:58,193 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 21:09:58,193 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 21:09:58,193 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 21:09:58,193 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 21:09:58,193 - INFO - Stopping localtunnel (PID: 46312)...
+2025-07-13 21:09:58,193 - INFO - Localtunnel stopped gracefully.
+2025-07-13 21:09:58,193 - INFO - Localtunnel restart cycle complete.
+2025-07-13 21:10:03,194 - INFO - Starting localtunnel...
+2025-07-13 21:10:03,201 - INFO - Localtunnel started with PID: 18576
+2025-07-13 21:10:09,204 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 21:10:09,204 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 21:10:10,205 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 21:10:10,205 - INFO - Next scheduled restart at: 2025-07-14 03:10:10
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: throw err;
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: ^
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:10833 (check your firewall settings)
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 21:14:15,236 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 21:14:15,236 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 21:14:15,236 - INFO - Stopping localtunnel (PID: 18576)...
+2025-07-13 21:14:15,236 - INFO - Localtunnel stopped gracefully.
+2025-07-13 21:14:15,236 - INFO - Localtunnel restart cycle complete.
+2025-07-13 21:14:20,239 - INFO - Starting localtunnel...
+2025-07-13 21:14:20,245 - INFO - Localtunnel started with PID: 39520
+2025-07-13 21:14:23,246 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 21:14:23,246 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 21:14:24,247 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 21:14:24,247 - INFO - Next scheduled restart at: 2025-07-14 03:14:24
+2025-07-13 23:52:15,213 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-13 23:52:15,213 - ERROR - Localtunnel: throw err;
+2025-07-13 23:52:15,213 - ERROR - Localtunnel: ^
+2025-07-13 23:52:15,213 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:14477 (check your firewall settings)
+2025-07-13 23:52:15,213 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-13 23:52:15,213 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-13 23:52:15,214 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-13 23:52:15,214 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-13 23:52:15,214 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-13 23:52:15,214 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-13 23:52:15,214 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-13 23:52:15,214 - INFO - Stopping localtunnel (PID: 39520)...
+2025-07-13 23:52:15,214 - INFO - Localtunnel stopped gracefully.
+2025-07-13 23:52:15,215 - INFO - Localtunnel restart cycle complete.
+2025-07-13 23:52:20,215 - INFO - Starting localtunnel...
+2025-07-13 23:52:20,221 - INFO - Localtunnel started with PID: 39564
+2025-07-13 23:52:25,225 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-13 23:52:25,225 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-13 23:52:26,226 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-13 23:52:26,226 - INFO - Next scheduled restart at: 2025-07-14 05:52:26
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: throw err;
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: ^
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:14949 (check your firewall settings)
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-14 02:48:27,445 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-14 02:48:27,446 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-14 02:48:27,446 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-14 02:48:27,446 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-14 02:48:27,446 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-14 02:48:27,446 - INFO - Stopping localtunnel (PID: 39564)...
+2025-07-14 02:48:27,446 - INFO - Localtunnel stopped gracefully.
+2025-07-14 02:48:27,446 - INFO - Localtunnel restart cycle complete.
+2025-07-14 02:48:32,447 - INFO - Starting localtunnel...
+2025-07-14 02:48:32,455 - INFO - Localtunnel started with PID: 38168
+2025-07-14 02:48:37,458 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-14 02:48:37,458 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-14 02:48:38,459 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-14 02:48:38,459 - INFO - Next scheduled restart at: 2025-07-14 08:48:38
+2025-07-14 05:29:34,443 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-14 05:29:34,443 - ERROR - Localtunnel: throw err;
+2025-07-14 05:29:34,443 - ERROR - Localtunnel: ^
+2025-07-14 05:29:34,443 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:13173 (check your firewall settings)
+2025-07-14 05:29:34,444 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-14 05:29:34,444 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-14 05:29:34,444 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-14 05:29:34,444 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-14 05:29:34,444 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-14 05:29:34,444 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-14 05:29:34,444 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-14 05:29:34,445 - INFO - Stopping localtunnel (PID: 38168)...
+2025-07-14 05:29:34,445 - INFO - Localtunnel stopped gracefully.
+2025-07-14 05:29:34,445 - INFO - Localtunnel restart cycle complete.
+2025-07-14 05:29:39,446 - INFO - Starting localtunnel...
+2025-07-14 05:29:39,452 - INFO - Localtunnel started with PID: 19440
+2025-07-14 05:29:45,454 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-14 05:29:45,454 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-14 05:29:46,455 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-14 05:29:46,455 - INFO - Next scheduled restart at: 2025-07-14 11:29:46
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: throw err;
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: ^
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:32917 (check your firewall settings)
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-14 05:35:51,505 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-14 05:35:51,506 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-14 05:35:51,506 - INFO - Stopping localtunnel (PID: 19440)...
+2025-07-14 05:35:51,506 - INFO - Localtunnel stopped gracefully.
+2025-07-14 05:35:51,506 - INFO - Localtunnel restart cycle complete.
+2025-07-14 05:35:56,507 - INFO - Starting localtunnel...
+2025-07-14 05:35:56,513 - INFO - Localtunnel started with PID: 10832
+2025-07-14 05:36:00,515 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-14 05:36:00,515 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-14 05:36:01,517 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-14 05:36:01,517 - INFO - Next scheduled restart at: 2025-07-14 11:36:01
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: throw err;
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: ^
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:17707 (check your firewall settings)
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-14 07:00:12,091 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-14 07:00:12,092 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-14 07:00:12,092 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-14 07:00:12,092 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-14 07:00:12,092 - INFO - Stopping localtunnel (PID: 10832)...
+2025-07-14 07:00:12,092 - INFO - Localtunnel stopped gracefully.
+2025-07-14 07:00:12,092 - INFO - Localtunnel restart cycle complete.
+2025-07-14 07:00:17,093 - INFO - Starting localtunnel...
+2025-07-14 07:00:17,101 - INFO - Localtunnel started with PID: 20544
+2025-07-14 07:00:23,103 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-14 07:00:23,103 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-14 07:00:24,103 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-14 07:00:24,103 - INFO - Next scheduled restart at: 2025-07-14 13:00:24
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\bin\lt.js:81
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: throw err;
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: ^
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: Error: connection refused: localtunnel.me:6481 (check your firewall settings)
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: at Socket.<anonymous> (C:\Users\AQT\AppData\Local\npm-cache\_npx\75ac80b86e83d4a2\node_modules\localtunnel\lib\TunnelCluster.js:52:11)
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: at Socket.emit (node:events:518:28)
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-07-14 08:37:54,703 - ERROR - Localtunnel: at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-14 08:37:54,704 - ERROR - Localtunnel: Node.js v22.17.0
+2025-07-14 08:37:54,704 - WARNING - Localtunnel process exited unexpectedly with code 1
+2025-07-14 08:37:54,704 - INFO - Stopping localtunnel (PID: 20544)...
+2025-07-14 08:37:54,704 - INFO - Localtunnel stopped gracefully.
+2025-07-14 08:37:54,704 - INFO - Localtunnel restart cycle complete.
+2025-07-14 08:37:59,706 - INFO - Starting localtunnel...
+2025-07-14 08:37:59,712 - INFO - Localtunnel started with PID: 31604
+2025-07-14 08:38:29,723 - ERROR - Failed to establish tunnel with the correct URL. Restarting...
+2025-07-14 08:38:29,723 - INFO - Stopping localtunnel (PID: 31604)...
+2025-07-14 08:38:39,734 - WARNING - Process did not terminate gracefully, forcing termination...
+2025-07-14 08:38:39,734 - INFO - Process terminated forcefully.
+2025-07-14 08:38:39,734 - INFO - Trying with same subdomain: robustsupportandsolutions
+2025-07-14 08:38:49,736 - INFO - Starting localtunnel...
+2025-07-14 08:38:49,742 - INFO - Localtunnel started with PID: 38828
+2025-07-14 08:38:52,744 - INFO - Localtunnel: your url is: https://robustsupportandsolutions.loca.lt
+2025-07-14 08:38:52,744 - INFO - Tunnel successfully established with correct URL: https://robustsupportandsolutions.loca.lt
+2025-07-14 08:38:53,745 - INFO - Monitoring tunnel. Next restart in 360.0 minutes.
+2025-07-14 08:38:53,745 - INFO - Next scheduled restart at: 2025-07-14 14:38:53
